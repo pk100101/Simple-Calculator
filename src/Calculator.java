@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Pragnya
+ *
+ */
 public class Calculator 
 {
 	int add;{num1, num2;

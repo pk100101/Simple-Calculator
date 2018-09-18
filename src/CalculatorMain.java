@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Pragnya
+ *
+ */
 public class CalculatorMain 
 {
 	Calculator calc = new Calculator ();
