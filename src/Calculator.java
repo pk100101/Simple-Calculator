@@ -5,12 +5,14 @@
  */
 public class Calculator 
 {
-	int add;{num1, num2;
+	public int add (int num1, int num2)
+	{
 	int ans = num1 + num2;
-	return; int ans;
+	return ans;
 	}
-	int subtract;{num1, num2
+	public int subtract (int num1, int num2)
+	{
 	int ans2 = num1 - num2;
-	return; int ans2;
+	return ans2;
 	}
 }
